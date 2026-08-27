@@ -45,10 +45,10 @@
 // }
 
 import { Routes, Route } from 'react-router-dom';
-import Home from './pages/Home';
-import About from './pages/About';
-import Movies from './pages/Movies';
-import MovieDetail from './pages/MovieDetail';
+import Home from './pages/Home.jsx';
+import About from './pages/About.jsx';
+import Movies from './pages/Movies.jsx';
+import MovieDetail from './pages/MovieDetail.jsx';
 import { NavLink } from 'react-router-dom';
 import Navbar from './Component/Navbar.jsx';
 import Footer from './Component/Footer.jsx';
