@@ -1,5 +1,5 @@
-import React from "react";
-import { link } from "react-router-dom";
+//import React from "react";
+//import { link } from "react-router-dom";
 import { movies } from "../data/data.js";
 import MovieCard from "../Component/MovieCard.jsx";
 import MovieGallery from "../Component/MovieGallery.jsx";
